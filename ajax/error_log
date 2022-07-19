@@ -1,0 +1,28 @@
+[10-Apr-2021 14:00:37 Europe/Madrid] PHP Notice:  Array to string conversion in /home2/blanquer/public_html/blanquersalud.es/app/ajax/alta_cita.php on line 36
+[10-Apr-2021 14:55:47 Europe/Madrid] PHP Notice:  Array to string conversion in /home2/blanquer/public_html/blanquersalud.es/app/ajax/alta_cita.php on line 36
+[10-Apr-2021 15:02:44 Europe/Madrid] PHP Notice:  Array to string conversion in /home2/blanquer/public_html/blanquersalud.es/app/ajax/alta_cita.php on line 36
+[20-Apr-2021 10:03:17 Europe/Madrid] PHP Notice:  Undefined index: hora in /home2/blanquer/public_html/blanquersalud.es/app/ajax/alta_cita.php on line 13
+[20-Apr-2021 10:03:17 Europe/Madrid] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/blanquer/public_html/blanquersalud.es/app/ajax/alta_cita.php on line 46
+[20-Apr-2021 10:04:28 Europe/Madrid] PHP Notice:  Undefined index: hora in /home2/blanquer/public_html/blanquersalud.es/app/ajax/alta_cita.php on line 13
+[20-Apr-2021 10:04:28 Europe/Madrid] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/blanquer/public_html/blanquersalud.es/app/ajax/alta_cita.php on line 46
+[27-Apr-2021 17:00:23 Europe/Madrid] PHP Notice:  Array to string conversion in /home2/blanquer/public_html/blanquersalud.es/app/ajax/alta_cita.php on line 36
+[12-Dec-2021 17:38:24 Europe/Madrid] PHP Notice:  Array to string conversion in /home2/blanquer/public_html/blanquersalud.es/app/ajax/alta_cita.php on line 36
+[12-Dec-2021 18:55:15 Europe/Madrid] PHP Notice:  Array to string conversion in /home2/blanquer/public_html/blanquersalud.es/app/ajax/guardar_anotacion.php on line 9
+[12-Dec-2021 18:55:15 Europe/Madrid] PHP Notice:  Undefined variable: Array in /home2/blanquer/public_html/blanquersalud.es/app/ajax/guardar_anotacion.php on line 9
+[12-Dec-2021 18:55:22 Europe/Madrid] PHP Notice:  Array to string conversion in /home2/blanquer/public_html/blanquersalud.es/app/ajax/guardar_anotacion.php on line 9
+[12-Dec-2021 18:55:22 Europe/Madrid] PHP Notice:  Undefined variable: Array in /home2/blanquer/public_html/blanquersalud.es/app/ajax/guardar_anotacion.php on line 9
+[12-Dec-2021 18:55:33 Europe/Madrid] PHP Notice:  Undefined index: id_paciente in /home2/blanquer/public_html/blanquersalud.es/app/ajax/guardar_anotacion.php on line 9
+[12-Dec-2021 18:55:35 Europe/Madrid] PHP Notice:  Undefined index: id_paciente in /home2/blanquer/public_html/blanquersalud.es/app/ajax/guardar_anotacion.php on line 9
+[12-Dec-2021 18:56:34 Europe/Madrid] PHP Notice:  Undefined index: id_paciente in /home2/blanquer/public_html/blanquersalud.es/app/ajax/guardar_anotacion.php on line 9
+[12-Dec-2021 19:17:37 Europe/Madrid] PHP Notice:  Array to string conversion in /home2/blanquer/public_html/blanquersalud.es/app/ajax/alta_cita.php on line 36
+[12-Dec-2021 19:18:24 Europe/Madrid] PHP Notice:  Array to string conversion in /home2/blanquer/public_html/blanquersalud.es/app/ajax/alta_cita.php on line 36
+[12-Dec-2021 19:52:37 Europe/Madrid] PHP Notice:  Undefined index: anotacion in /home2/blanquer/public_html/blanquersalud.es/app/ajax/guardar_anotacion.php on line 10
+[12-Dec-2021 19:56:57 Europe/Madrid] PHP Notice:  Undefined index: anotacion in /home2/blanquer/public_html/blanquersalud.es/app/ajax/guardar_anotacion.php on line 10
+[12-Dec-2021 20:09:23 Europe/Madrid] PHP Notice:  Undefined index: especialidad in /home2/blanquer/public_html/blanquersalud.es/app/ajax/datos_paciente.php on line 80
+[13-Jan-2022 10:29:53 Europe/Madrid] PHP Parse error:  syntax error, unexpected ' ' (T_STRING) in /home2/blanquer/public_html/blanquersalud.es/app/ajax/subida_ficheros.php on line 40
+[13-Jan-2022 10:31:57 Europe/Madrid] PHP Parse error:  syntax error, unexpected ' ' (T_STRING) in /home2/blanquer/public_html/blanquersalud.es/app/ajax/subida_ficheros.php on line 40
+[13-Jan-2022 10:38:38 Europe/Madrid] PHP Parse error:  syntax error, unexpected ' ' (T_STRING) in /home2/blanquer/public_html/blanquersalud.es/app/ajax/subida_ficheros.php on line 39
+[13-Jan-2022 10:42:12 Europe/Madrid] PHP Parse error:  syntax error, unexpected ' ' (T_STRING) in /home2/blanquer/public_html/blanquersalud.es/app/ajax/subida_ficheros.php on line 40
+[13-Jan-2022 10:43:11 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'unlink' (T_STRING) in /home2/blanquer/public_html/blanquersalud.es/app/ajax/subida_ficheros.php on line 63
+[13-Jan-2022 10:44:48 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'unlink' (T_STRING) in /home2/blanquer/public_html/blanquersalud.es/app/ajax/subida_ficheros.php on line 66
+[13-Jan-2022 10:47:54 Europe/Madrid] PHP Parse error:  syntax error, unexpected ' ' (T_STRING) in /home2/blanquer/public_html/blanquersalud.es/app/ajax/subida_ficheros.php on line 43
